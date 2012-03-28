@@ -1,0 +1,11 @@
+
+하드디스크 인터페이스
+
+ATA 레지스터
+
+CHS Address와 LBA Address
+
+실습코드
+- Visual C++에서 사용
+- LBA를 읽어서 화면에 값을 보여주는 예제
+- HDD_read함수는 모든 예제에서 쓰임
